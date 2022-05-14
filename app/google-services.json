@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "914786572739",
+    "firebase_url": "https://reto-firebase-d50ff-default-rtdb.firebaseio.com",
+    "project_id": "reto-firebase-d50ff",
+    "storage_bucket": "reto-firebase-d50ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914786572739:android:d7ea29cf74c683ea0c0576",
+        "android_client_info": {
+          "package_name": "com.example.firebasereto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914786572739-cj5oulp7opci3l0jdk5pvg3pt4hl1n7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxgcjbxg5tPW9jB1S4HfVOpWHQWj7YzHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914786572739-cj5oulp7opci3l0jdk5pvg3pt4hl1n7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
